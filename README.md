@@ -7,9 +7,9 @@ The second version of the [BrickMMO Conversions](https://conversions.brickmmo.co
 - Baseplate (48 x 48 studs)
 - Inches
 - Feet
-- MM
-- CM
-- M
+- Millimeters
+- Centimeters
+- Meters
 
 ---
 
