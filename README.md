@@ -3,7 +3,7 @@
 A second version of the BrickMMO Conversions tool. A small website used to convert common BrickMMO realted units of measurement:
 
 - Studs
-- Gric (16 x 16 studs)
+- SCILS Grid (16 x 16 studs)
 - Baseplate (48 x 48 studs)
 - Inches
 - Feet
