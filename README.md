@@ -1,6 +1,6 @@
 # Conversions
 
-A second version of the BrickMMO Conversions tool. A small website used to convert common BrickMMO realted units of measurement:
+The second version of the [BrickMMO Conversions](https://conversions.brickmmo.com/) tool. A small website used to convert common BrickMMO related units of measurement:
 
 - Studs
 - SCILS Grid (16 x 16 studs)
