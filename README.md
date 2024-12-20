@@ -15,9 +15,9 @@ A second version of the BrickMMO Conversions tool. A small website used to conve
 
 ## Project Stack
 
-This project uses only [HTML](), [W3.CSS]() and [JavaScript]() and is hosted using [GitHub Pages](https://pages.github.com/).
+This project uses a [W3.CSS](https://www.w3schools.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and is hosted using [GitHub Pages](https://pages.github.com/).
 
-<img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/w3css" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> <img src="https://console.codeadam.ca/api/image/github" width="60">
+<img src="https://console.codeadam.ca/api/image/w3css" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">  <img src="https://console.codeadam.ca/api/image/javascript" width="60"> <img src="https://console.codeadam.ca/api/image/github" width="60">
 
 ---
 
